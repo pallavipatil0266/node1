@@ -1,0 +1,17 @@
+{
+  "name": "12-01-2024",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pallavi",
+  "license": "ISC",
+  "description": "project",
+  "dependencies": {
+    "express": "^4.18.2",
+    "generate-password": "^1.7.1",
+    "nodemon": "^3.0.2",
+    "silly-animals": "^1.0.1"
+  }
+}
